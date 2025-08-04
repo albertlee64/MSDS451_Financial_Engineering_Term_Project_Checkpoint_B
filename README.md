@@ -1,4 +1,4 @@
-# MSDS451 Financial Engineering Term Project Checkpoint_B
+# MSDS451 Financial Engineering Term Project Checkpoint B
 
 # Monte Carlo Portfolio Optimization and Backtesting
 
