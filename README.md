@@ -4,30 +4,11 @@
 
 # Assets Chosen for Portfolio
 
-Ticker	Name
-AAPL	Apple Inc.
-JPM	JPMorgan Chase & Co.
-HON	Honeywell International Inc.
-NOC	Northrop Grumman Corporation
-MSFT	Microsoft Corporation
-JNJ	Johnson & Johnson
-PG	The Procter & Gamble Company
-SPY	SPDR S&P 500 ETF Trust (tracks the S&P 500 index)
-IWM	iShares Russell 2000 ETF (tracks the Russell 2000 index)
-QQQ	Invesco QQQ Trust (tracks the Nasdaq-100 Index)
-ACWI	iShares MSCI ACWI ETF (All Country World Index)
-TLT	iShares 20+ Year Treasury Bond ETF (tracks the US Treasury with remaining maturities greater than 20 years)
-GLD	SPDR Gold Shares (tracks the price performance of gold bullion)
-VNQ	Vanguard Real Estate ETF (invests in stocks issued by REIT’s)
-UUP	Invesco DB U.S. Dollar Index Bullish Fund (tracks US dollar)
-<img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/778c53d9-536e-40cf-b429-3a4ab0e3586d" />
-
+<img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/1b7ebb29-624d-4b26-8910-4f9bc1feee40" />
 
 Assume Equal-Weighted Portfolio Return Performance since 1999
 
 <img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/71b8d42b-e251-40db-8d80-4485df636cc0" />
-
-<img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/700f8b0a-f6b9-4462-a041-2d989c7f646d" />
 
 
 # Methods Implemented
