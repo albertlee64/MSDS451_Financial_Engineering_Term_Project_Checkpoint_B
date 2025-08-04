@@ -1,2 +1,48 @@
-# MSDS451_Financial_Engineering_Term_Project_Checkpoint_B
-MSDS451_Financial_Engineering_Term_Project_Checkpoint_B
+# MSDS451 Financial Engineering Term Project Checkpoint_B
+
+# Monte Carlo Portfolio Optimization and Backtesting
+
+# Assets Chosen for Portfolio
+
+<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/44451e06-f82e-40b8-8c53-0c5517197f79" />
+
+Assume Equal-Weighted Portfolio Return Performance since 1999
+
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/71b8d42b-e251-40db-8d80-4485df636cc0" />
+
+
+Portfolio Returns Summary
+                    Period                Date Range  Portfolio Return (%)
+0           Dot-Com Bubble  2000-03-01 to 2002-10-31                -28.22
+1          Subprime Crisis  2007-06-29 to 2009-03-31                -23.79
+2           Quant Meltdown  2007-06-29 to 2007-08-31                  7.10
+3     European Debt Crisis  2008-12-31 to 2014-12-31                513.91
+4                 COVID-19  2020-01-31 to 2021-12-31                115.06
+5  Total Cumulative Return  1999-01-04 to 2024-12-30              11121.05
+<img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/700f8b0a-f6b9-4462-a041-2d989c7f646d" />
+
+
+# Methods Implemented
+
+Method 1: Monte Carlo Simulation using Dirichlet Process
+Randomly generates portfolio weights using the Dirichlet distribution.
+
+Simulates expected returns, volatility, and Sharpe ratios.
+
+Selects the best-performing portfolio based on Sharpe ratio.
+
+Method 2: Deterministic Optimization using SLSQP
+Optimizes weights to maximize the Sharpe ratio using SciPy’s minimize function.
+
+Applies constraints to ensure valid portfolio weights (sum to 1, no shorting).
+
+Uses historical mean returns and covariance matrices.
+
+# Backtesting
+Applies Method 1’s optimal weights annually from 1999 onward.
+
+Compares optimized portfolio performance to S&P 500 benchmark (SPY).
+
+Includes visualizations of cumulative returns, crisis period shading, and asset rebalancing over time.
+
+
