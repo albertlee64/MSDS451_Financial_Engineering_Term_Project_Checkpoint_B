@@ -1,0 +1,2 @@
+# MSDS451_Financial_Engineering_Term_Project_Checkpoint_B
+MSDS451_Financial_Engineering_Term_Project_Checkpoint_B
