@@ -4,21 +4,29 @@
 
 # Assets Chosen for Portfolio
 
-<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/44451e06-f82e-40b8-8c53-0c5517197f79" />
+Ticker	Name
+AAPL	Apple Inc.
+JPM	JPMorgan Chase & Co.
+HON	Honeywell International Inc.
+NOC	Northrop Grumman Corporation
+MSFT	Microsoft Corporation
+JNJ	Johnson & Johnson
+PG	The Procter & Gamble Company
+SPY	SPDR S&P 500 ETF Trust (tracks the S&P 500 index)
+IWM	iShares Russell 2000 ETF (tracks the Russell 2000 index)
+QQQ	Invesco QQQ Trust (tracks the Nasdaq-100 Index)
+ACWI	iShares MSCI ACWI ETF (All Country World Index)
+TLT	iShares 20+ Year Treasury Bond ETF (tracks the US Treasury with remaining maturities greater than 20 years)
+GLD	SPDR Gold Shares (tracks the price performance of gold bullion)
+VNQ	Vanguard Real Estate ETF (invests in stocks issued by REIT’s)
+UUP	Invesco DB U.S. Dollar Index Bullish Fund (tracks US dollar)
+<img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/778c53d9-536e-40cf-b429-3a4ab0e3586d" />
+
 
 Assume Equal-Weighted Portfolio Return Performance since 1999
 
 <img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/71b8d42b-e251-40db-8d80-4485df636cc0" />
 
-
-Portfolio Returns Summary
-                    Period                Date Range  Portfolio Return (%)
-0           Dot-Com Bubble  2000-03-01 to 2002-10-31                -28.22
-1          Subprime Crisis  2007-06-29 to 2009-03-31                -23.79
-2           Quant Meltdown  2007-06-29 to 2007-08-31                  7.10
-3     European Debt Crisis  2008-12-31 to 2014-12-31                513.91
-4                 COVID-19  2020-01-31 to 2021-12-31                115.06
-5  Total Cumulative Return  1999-01-04 to 2024-12-30              11121.05
 <img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/700f8b0a-f6b9-4462-a041-2d989c7f646d" />
 
 
